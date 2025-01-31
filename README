@@ -1,1 +1,1 @@
-README fil til mit tdd-calculator projekt.
+This project implements a simple Calculator class following Test-Driven Development (TDD) principles. The calculator supports basic arithmetic operations and methods for summing numbers from different input formats.
